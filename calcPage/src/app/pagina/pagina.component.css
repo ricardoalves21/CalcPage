@@ -1,0 +1,19 @@
+.font-white {
+    color: white;
+}
+
+.calculadoras {
+    padding: 50px;
+}
+
+.card {
+    width: 18rem; 
+    padding: 25px; 
+    border: none; 
+    vertical-align: bottom;
+}
+
+.img-1 {
+    width: 12rem;
+    margin-top: 44px;
+}
